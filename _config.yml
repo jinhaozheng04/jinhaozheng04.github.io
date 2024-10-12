@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jinhao Zheng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jinhao"
 description              : &description "personal description"
 url                      : https://jinhaozheng04.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
