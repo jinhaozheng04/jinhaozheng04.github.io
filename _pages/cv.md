@@ -11,11 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in University of Science and Technology of China, Major in Atmoic and Molecular Physics. 2021-presesnt
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -27,7 +25,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Global Calibration of 12-Depth Photonic Integrated Chips
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
