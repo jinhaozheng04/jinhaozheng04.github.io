@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in University of Science and Technology of China, Major in Atmoic and Molecular Physics. 2021-presesnt
+* B.S. in University of Science and Technology of China(USTC), 2021-2025(expected)
 
 Research experience
 ======
@@ -26,7 +26,7 @@ Research experience
   * Supervisor: Professor Hub
 
 * Global Calibration of 12-Depth Photonic Integrated Chips
-  * Github University
+  * USTC
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
