@@ -15,6 +15,12 @@ Education Experience
 
 <span class='anchor' id='-pubs'></span>
 
+Publications
+======
+1. **Jin-Hao Zheng{*}**, Qin-Qin Wang{*}, Lan-Tian Feng, Yu-Yang Ding, Xiao-Ye Xu, Xi-Feng Ren, Chuan-Feng Li, and Guang-Can Guo, *Global calibration of large-scale photonic integrated circuits*, Phys. Rev. Applied **22**, 054011 [pdf](https://doi.org/10.1103/PhysRevApplied.22.054011)
+
+<span class='anchor' id='-honors'></span>
+
 Honors and Scholarships
 ======
 **Outstanding Graduate** Awarded by University of Science and Technology of China, 2025.03
