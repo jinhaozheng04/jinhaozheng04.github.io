@@ -13,6 +13,8 @@ Education Experience
 ======
 2021.09-2025.07, University of Science and Techonology, Bachlor of Science
 
+<span class='anchor' id='-pubs'></span>
+
 Honors and Scholarships
 ======
 **Outstanding Graduate** Awarded by University of Science and Technology of China, 2025.03
