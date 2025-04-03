@@ -11,7 +11,7 @@ This is the personal homepage of Jinhao Zheng. I will graduate from University o
 
 Education Experience
 ======
-2021.09-2025.07, University of Science and Techonology, Bachlor of Science
+2021.09-2025.07, University of Science and Techonology, Bachlor of Science in Physics
 
 <span class='anchor' id='-pubs'></span>
 
