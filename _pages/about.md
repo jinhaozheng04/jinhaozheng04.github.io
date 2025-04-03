@@ -17,7 +17,9 @@ Education Experience
 
 Publications
 ======
-1. **Jin-Hao Zheng\***, Qin-Qin Wang\*, Lan-Tian Feng, Yu-Yang Ding, Xiao-Ye Xu, Xi-Feng Ren, Chuan-Feng Li, and Guang-Can Guo, *Global calibration of large-scale photonic integrated circuits*, [Phys. Rev. Applied **22**, 054011](https://doi.org/10.1103/PhysRevApplied.22.054011)
+1.	Zhi-Yuan Zhang\*, Yang Chen\*, Lan-Tian Feng$^\dagger$, **Jin-Hao Zheng**, Qin-Qin Wang, Bo-Yu Xu, Yu-Yang Ding, Xiao-Ye Xu, Guang-Can Guo, Xi-Feng Ren, Disorder-Induced Enhancement of Nonclassical Correlations in Reconfigurable Integrated Quantum Walks, submitted to Science Advance (2025)
+
+1. **Jin-Hao Zheng\***, Qin-Qin Wang\*, Lan-Tian Feng, Yu-Yang Ding, Xiao-Ye Xu$^\dagger$, Xi-Feng Ren, Chuan-Feng Li, and Guang-Can Guo, Global calibration of large-scale photonic integrated circuits, [Phys. Rev. Applied **22**, 054011](https://doi.org/10.1103/PhysRevApplied.22.054011) (2024)
 
 <span class='anchor' id='-honors'></span>
 
